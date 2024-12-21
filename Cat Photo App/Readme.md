@@ -227,3 +227,58 @@ The fieldset element is used to group related inputs and labels together in a we
 The legend element acts as a caption for the content in the fieldset element. It gives users context about what they should enter into that part of the form.
 
 #### Associate Label with Input
+There's another way to associate an input element's text with the element itself. You can nest the text within a label element and add a for attribute with the same value as the input element's id attribute.
+
+Given an input element as below:
+
+Example Code
+```
+<input id="breakfast" type="radio" name="meal" value="breakfast">
+```
+An example of a label element that is associated to this input element is:
+
+Example Code
+```
+<label for="breakfast">Breakfast</label>
+```
+
+#### Default checked
+In order to make a checkbox checked or radio button selected by default, you need to add the checked attribute to it.
+
+Here is an example of a radio button with the checked attribute:
+
+Example Code:
+```
+<input checked type="radio" name="meal" value="breakfast"> Breakfast
+```
+There's no need to set a value to the checked attribute. Instead, just add the word checked to the input element, making sure there is space between it and other attributes.
+
+### Footer
+The footer element is used to define a footer for a document or section. A footer typically contains information about the author of the document, copyright data, links to terms of use, contact information, and more.
+
+### Head
+- The head element is used to contain metadata about the document, such as its title, links to stylesheets, and scripts. 
+- Metadata is information about the page that isn't displayed directly on the page.
+
+#### META ELEMENT
+You can set browser behavior by adding meta elements in the head. Here's an example:
+
+Example Code
+```
+<meta attribute="value">
+```
+Inside the head element, nest a meta element with an attribute named charset. Set to the value to utf-8 which tells the browser how to encode characters for the page.
+
+- Note that the meta element is a void element.
+
+### HTML Element
+- The `html` element is the root element of an HTML page and wraps all content on the page.
+
+- You can also specify the language of your page by adding the `lang` attribute to the html element.
+
+### DOCTYPE
+All pages should begin with `<!DOCTYPE html>`.
+-  This special string is known as a declaration and ensures the browser tries to meet industry-wide specifications.
+
+- `<!DOCTYPE html>` tells browsers that the document is an HTML5 document which is the latest version of HTML.
+
