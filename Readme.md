@@ -15,28 +15,28 @@ It introduces me to different HTML Tags and elements and their attributes.
 
 <table>
   <tr>
-    <td>- Headings</td>
-    <td>- Paragraphs</td>
-    <td>- Comments</td>
+    <td>Headings</td>
+    <td>Paragraphs</td>
+    <td>Comments</td>
   </tr>
   <tr>
-    <td>- Image</td>
-    <td>- Anchor</td>
-    <td>- Figure</td>
+    <td>Image</td>
+    <td>Anchor</td>
+    <td>Figure</td>
   </tr>
   <tr>
-    <td>- Head</td>
-    <td>- Body</td>
-    <td>- Footer</td>
+    <td>Head</td>
+    <td>Body</td>
+    <td>Footer</td>
   </tr>
   <tr>
-    <td>- Main</td>
-    <td>- Section</td>
-    <td>- Forms</td>
+    <td>Main</td>
+    <td>Section</td>
+    <td>Forms</td>
   </tr>
   <tr>
-    <td>- <em>em</em></td>
-    <td>- <strong>strong</strong></td>
-    <td>- Lists</td>
+    <td><em>em</em></td>
+    <td><strong>strong</strong></td>
+    <td>Lists</td>
   </tr>
-</table>
+</table>git pull origin maingit pull origin main
