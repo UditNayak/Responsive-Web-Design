@@ -7,6 +7,7 @@ Finally, I'll learn how to make webpages that respond to different screen sizes 
 
 ## Index:
 1. [Cat Photo App](#cat-photo-app)
+2. [Cafe Menu](#cafe-menu)
 
 ## <a id="cat-photo-app"></a>Cat Photo App
 In this Project, I learned about the basics of HTML.
@@ -39,4 +40,6 @@ It introduces me to different HTML Tags and elements and their attributes.
     <td><strong>strong</strong></td>
     <td>Lists</td>
   </tr>
-</table>git pull origin maingit pull origin main
+</table>
+
+## <a id="cafe-menu"></a>Cafe Menu
