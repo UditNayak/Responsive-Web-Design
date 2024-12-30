@@ -43,3 +43,4 @@ It introduces me to different HTML Tags and elements and their attributes.
 </table>
 
 ## <a id="cafe-menu"></a>Cafe Menu
+In this project, I'll learn CSS by designing a menu page for a cafe webpage.
