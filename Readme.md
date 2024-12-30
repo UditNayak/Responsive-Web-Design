@@ -39,4 +39,4 @@ It introduces me to different HTML Tags and elements and their attributes.
     <td><strong>strong</strong></td>
     <td>Lists</td>
   </tr>
-</table>git pull origin maingit pull origin main
+</table>
