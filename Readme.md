@@ -1,4 +1,9 @@
 # Responsive Web Design
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/589c81f9-c3c6-4b46-a192-9fe6c9b3162c" alt="HTML">
+  <img src="https://github.com/user-attachments/assets/a748dc3d-ea36-4742-a261-11556de169f8" alt="CSS">
+</div>
+
 In this Journey I will build 20 Projects using HTML and CSS.
 <br>
 First, I'll build a cat photo app to learn the basics of HTML and CSS. Later, I'll learn modern techniques like CSS variables by building a penguin, and best practices for accessibility by building a quiz site.
